@@ -3,7 +3,8 @@ nio-mbair-jhansen:~ jhansen$ cd nio/projects/azz
 nio-mbair-jhansen:azz jhansen$ ls
 README.md	blocks		envs		etc		nio.conf	prod.env	service_tests	tests
 nio-mbair-jhansen:azz jhansen$ git status
-On branch nio/oracle/HUR-first-job
+test_dipcapture
+
 Your branch is up-to-date with 'origin/nio/oracle/HUR-first-job'.
 nothing to commit, working directory clean
 nio-mbair-jhansen:azz jhansen$ git checkout nio/oracle/master
